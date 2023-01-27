@@ -1,7 +1,7 @@
 {
   "name": "node-webcrypto",
   "version": "1.0.0",
-  "description": "Provides webcrypto in node.js context (incl. typescript compatible vue.js).",
+  "description": "Provides webcrypto in node.js context (incl. typeScript, Vue.js and both).",
   "main": "index.js",
   "author": "Mark Herrmann",
   "license": "MIT",

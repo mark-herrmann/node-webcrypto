@@ -4,7 +4,7 @@
 
 [![npm](https://img.shields.io/npm/v/node-webcrypto)](https://www.npmjs.com/package/node-webcrypto) [![QA](https://github.com/mark-herrmann/node-webcrypto/actions/workflows/qa.yml/badge.svg?branch=main)](https://github.com/mark-herrmann/node-webcrypto/actions/workflows/qa.yml)
 
-Provides webcrypto in node.js context (incl. typescript compatible vue.js).
+Provides webcrypto in node.js context (incl. typeScript, Vue.js and both).
 
 ## Install
 ```sh
